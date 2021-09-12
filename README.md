@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NouraAlthakafi
 - 👀 I’m interested in programming as well as data analytics
 - 🌱 I’m currently learning Kotlin and Swift
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on developing mobile applications in the future
 - 📫 How to reach me by email: nouraal-thakafi@hotmail.com
 
 <!---
